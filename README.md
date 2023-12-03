@@ -34,7 +34,11 @@
 *SERVIDOR HTTP* <br>
 ![WhatsApp Image 2023-12-02 at 22 28 59](https://github.com/DennisCatana/taller-07/assets/117743538/99d68c2c-c253-44b5-a1c6-10c8d8c8f784) <br>
 
+![WhatsApp Image 2023-12-02 at 22 33 11](https://github.com/DennisCatana/taller-07/assets/117743538/d3644958-bed3-4093-bc9e-71d019b01588) <br>
+
 ## Servidor web con el paquete de NPM Express<br>
 
 ## Estructura de directorios y carpetas para los futuros proyectos<br>
+
+
 
