@@ -37,6 +37,9 @@
 ![WhatsApp Image 2023-12-02 at 22 33 11](https://github.com/DennisCatana/taller-07/assets/117743538/d3644958-bed3-4093-bc9e-71d019b01588) <br>
 
 ## Servidor web con el paquete de NPM Express<br>
+![WhatsApp Image 2023-12-02 at 22 56 10](https://github.com/DennisCatana/taller-07/assets/117743538/a0152cdd-19cb-4371-8dd3-14ab820f66a4) <br>
+![WhatsApp Image 2023-12-02 at 22 56 58](https://github.com/DennisCatana/taller-07/assets/117743538/43aeba99-6615-4e98-b60e-f4cc10f8cc42) <br>
+
 
 ## Estructura de directorios y carpetas para los futuros proyectos<br>
 
