@@ -28,9 +28,6 @@
 ![image](https://github.com/DennisCatana/taller-07/assets/150082943/f3818687-55e1-4953-84c3-36382220c3bf)
 
 ## Servidor web con el módulo de Node.js HTTP<br>
-- _Modelo Client - Server_ <br>
-![WhatsApp Image 2023-12-02 at 16 58 41](https://github.com/DennisCatana/taller-07/assets/117743538/e5085446-21ba-4fe5-be31-6f9fdfab53c8) <br>
-
 *SERVIDOR HTTP* <br>
 ![WhatsApp Image 2023-12-02 at 22 28 59](https://github.com/DennisCatana/taller-07/assets/117743538/99d68c2c-c253-44b5-a1c6-10c8d8c8f784) <br>
 
