@@ -30,14 +30,18 @@
 ## Servidor web con el módulo de Node.js HTTP<br>
 - _Modelo Client - Server_ <br>
 ![WhatsApp Image 2023-12-02 at 16 58 41](https://github.com/DennisCatana/taller-07/assets/117743538/e5085446-21ba-4fe5-be31-6f9fdfab53c8) <br>
-- _WEB Server HTTP_ <br>
-Acepta solicitudes de clientes web (navegadores) y responde proporcionando recursos, como páginas HTML, imágenes, archivos CSS, scripts. <br>
 
+*SERVIDOR HTTP* <br>
+![WhatsApp Image 2023-12-02 at 22 28 59](https://github.com/DennisCatana/taller-07/assets/117743538/99d68c2c-c253-44b5-a1c6-10c8d8c8f784) <br>
 
-_WEB Server Express_
-
+![WhatsApp Image 2023-12-02 at 22 33 11](https://github.com/DennisCatana/taller-07/assets/117743538/d3644958-bed3-4093-bc9e-71d019b01588) <br>
 
 ## Servidor web con el paquete de NPM Express<br>
+![WhatsApp Image 2023-12-02 at 22 56 10](https://github.com/DennisCatana/taller-07/assets/117743538/a0152cdd-19cb-4371-8dd3-14ab820f66a4) <br>
+![WhatsApp Image 2023-12-02 at 22 56 58](https://github.com/DennisCatana/taller-07/assets/117743538/43aeba99-6615-4e98-b60e-f4cc10f8cc42) <br>
+
 
 ## Estructura de directorios y carpetas para los futuros proyectos<br>
+
+
 
