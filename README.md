@@ -59,12 +59,12 @@ Asegúrate de que tu proyecto tenga un archivo package.json para proyectos Node.
 Añade un archivo railway.yml en la raíz de tu proyecto para configurar tu base de datos y otras variables de entorno.
 Ejemplo de railway.yml para una aplicación Node.js con una base de datos PostgreSQL
 services:
-  - name: backend
-    type: node
-    env:
-      DATABASE_URL: ${{DATABASE_URL}}
-databases:
-  - name: postgres
+    name: backend<br>
+    type: node<br>
+    env:<br>
+      DATABASE_URL: ${{DATABASE_URL}}<br>
+databases:<br>
+    name: postgres<br>
     type: postgresql
 
 4. Variables de Entorno:
