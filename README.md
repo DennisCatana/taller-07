@@ -43,3 +43,33 @@
 _Esta estructura es modulable y escalable que permite que diferentes partes de la app este organizada de manera mas clara._ <br>
 ![WhatsApp Image 2023-12-03 at 14 33 48](https://github.com/DennisCatana/taller-07/assets/117743538/d1118393-a53b-4c47-b526-57a314cb9eaa) <br>
 
+## Realizar la consulta de cómo hacer el despliegue de un backend a un ambiente de producción (RAILWAY)
+
+![RAILWAY](https://github.com/DennisCatana/taller-07/assets/117743120/bc5154d0-7646-441e-beae-d390c9cec4bf)
+
+1. Registro en Railway:
+Accede al sitio web de Railway y regístrate para obtener una cuenta.
+
+2. Instalación de Railway CLI:
+Abre tu terminal y sigue las instrucciones en la documentación de Railway para instalar la CLI. Esto te permitirá interactuar con Railway desde la línea de comandos.
+
+3. Configuración del Proyecto:
+Asegúrate de que tu proyecto tenga un archivo package.json para proyectos Node.js o el equivalente para otros lenguajes.
+
+Añade un archivo railway.yml en la raíz de tu proyecto para configurar tu base de datos y otras variables de entorno.
+Ejemplo de railway.yml para una aplicación Node.js con una base de datos PostgreSQL
+services:
+  - name: backend
+    type: node
+    env:
+      DATABASE_URL: ${{DATABASE_URL}}
+databases:
+  - name: postgres
+    type: postgresql
+
+4. Variables de Entorno:
+Configura las variables de entorno necesarias en el archivo railway.yml.
+
+5. Despliegue:
+Ejecuta el siguiente comando en tu terminal para desplegar tu aplicación: "railway run npm start"
+
